@@ -94,3 +94,21 @@ elem 3 [1, 2, 3, 4, 5]
 True
 ```
 
+## Replicar um elemento
+mostra uma lista com [3,3]
+```haskell
+replicate 2 3
+```
+
+## Retorna uma lista infinita
+retorna um fluxo infinito de 1,2,3...
+```haskell
+cycle [1,2,3]
+```
+
+## Repeat
+similiar ao cycle
+
+```haskell
+repeat 2
+```
